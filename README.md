@@ -6,12 +6,13 @@ This repository is a non confidential portfolio summary of my work in the 2026 A
 
 | Metric | Result |
 | --- | --- |
-| Strategy score | **15.70 of 16** scored cases |
+| Overall evaluation | **19.70 of 20** points |
+| Strategy score | **15.70 of 16** scored strategy cases |
 | Evaluation cases | **20 of 20 passed** |
 | Bankruptcies | **0** |
 | Official final ranking | **Not yet announced** as of August 30, 2026 |
 
-The strategy score refers to the 16 scored cases in the captured platform evaluation. The remaining cases were validation checks. These results do not represent a public competition ranking, an award, real money trading performance, or a recruiting outcome.
+The 19.70/20 overall evaluation and 15.70/16 strategy score use different scoring denominators. The strategy score covers the 16 scored strategy cases in the captured platform evaluation; the other four cases were validation checks. Neither score is a public competition ranking, an award, real money trading performance, or a recruiting outcome.
 
 ## The problem
 
@@ -27,7 +28,7 @@ I built the strategy in Python around three connected components:
 
 ## Resume summary
 
-> Built a Python market maker for rate, company valuation, and relative value binary options, combining smoothed discrete rate transitions, conditional Gaussian log return models, residual covariance, model derived uncertainty bounds, and inventory and capital constrained dynamic quoting; earned 15.70 of 16 strategy points, passed 20 of 20 cases, and recorded zero bankruptcies.
+> Built a Python market maker for rate, company valuation, and relative value binary options, combining smoothed discrete rate transitions, conditional Gaussian log return models, residual covariance, model derived uncertainty bounds, and inventory and capital constrained dynamic quoting; earned 19.70 of 20 overall evaluation points, passed all 20 cases, and recorded zero bankruptcies.
 
 ## Public scope
 
